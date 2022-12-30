@@ -1,0 +1,5 @@
+job:
+  tags:
+    - localhost
+  script:
+    - echo test
